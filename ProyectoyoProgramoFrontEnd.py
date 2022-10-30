@@ -1,3 +1,3 @@
 
-print("Hola \n" *5)
-Repositorio creados destinado para el proyecto Front End 
+
+Repositorio creado destinado para el proyecto Front End 
